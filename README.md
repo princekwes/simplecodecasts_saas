@@ -1,5 +1,8 @@
 # README
 
+Coder Manual Project Application
+subscription-based web application
+https://quiet-gorge-68807.herokuapp.com/
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
